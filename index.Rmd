@@ -1,0 +1,29 @@
+---
+title: "My Postcard"
+image: "profile.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@example.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+This is a sample postcard site created with the postcards R package.
+
+## Education
+
+**University Name** | City, State
+
+B.S. in Subject | Year - Year
+
+## Experience
+
+**Company Name** | Position | Year - Year
+
+Description of role and responsibilities.
