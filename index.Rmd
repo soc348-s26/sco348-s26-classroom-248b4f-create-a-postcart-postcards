@@ -5,25 +5,25 @@ links:
   - label: LinkedIn
     url: "https://linkedin.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/elinw"
   - label: Email
-    url: "mailto:email@example.com"
+    url: "mailto:elin.waring@lehman.cuny.edu"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-This is a sample postcard site created with the postcards R package.
+I teach sociology and data science at Lehman College.
 
 ## Education
 
-**University Name** | City, State
+**Swarthmore College** | Swarthmore, PA
 
-B.S. in Subject | Year - Year
+B.A. in Sociology and Anthroplogy| 1981
 
 ## Experience
 
-**Company Name** | Position | Year - Year
+**Lehman College** | Professor | Present
 
 Description of role and responsibilities.
