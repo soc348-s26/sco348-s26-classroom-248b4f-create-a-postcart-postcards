@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:elin.waring@lehman.cuny.edu"
 output:
-  postcards::solana
+  postcards::jolla
 ---
  
 ## Bio
